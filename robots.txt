@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohjoocheav.maxzsol.org/sitemap.xml
